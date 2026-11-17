@@ -1,0 +1,17 @@
+# dependencies & build output
+node_modules/
+dist/
+
+# local tooling / editor
+.claude/
+.DS_Store
+
+# confidential internal document — never publish
+LoneWolf_Master_KB_v2.2.md
+
+# working folders and earlier iterations, kept locally only
+3D website/
+Prev Work Images/
+site-previous/
+site-v2/
+lonewolf-digital-logo-update_web vertical.png
